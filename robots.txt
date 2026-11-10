@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# robots.txt NÃO é controle de acesso. Arquivos privados devem ficar fora da raiz pública.
